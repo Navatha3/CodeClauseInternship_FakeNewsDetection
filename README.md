@@ -9,14 +9,8 @@ Features
 Getting Started
 Prerequisites
 Installation
-Usage
-Model
-Dataset
-Results
-Contributions
-License
-Introduction
 
+Introduction
 #In an era where information integrity is paramount, this project focuses on building a robust fake news detection system. Leveraging state-of-the-art machine learning methods, the goal is to distinguish between genuine news articles and fabricated content.
 
 #Features
@@ -34,18 +28,3 @@ Clone the repository: git clone https://github.com/your_username/your_project.gi
 Navigate to the project directory: cd your_project
 Install the required libraries: pip install -r requirements.txt
 
-#Usage
-Detailed instructions on how to use your project or integrate the fake news detection model.
-Provide code examples if necessary.
-
-#Model
-Explain the model architecture and how it works.
-Include any relevant diagrams or visualizations.
-
-#Dataset
-Information about the dataset used for training and testing the model.
-If applicable, provide a link to the dataset or instructions on how to obtain it.
-
-#Results
-Discuss the performance of the model.
-Include accuracy metrics, graphs, or comparisons with other methods if available
